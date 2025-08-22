@@ -74,7 +74,6 @@ Fórmula: variação = 100 × (final − inicial) / inicial.
 ---
 
 ## Dúvidas comuns:
-
 Não entendo a curva só em parte do período.
 O gráfico usa somente a janela escolhida e marca a fronteira treino/teste.
 
