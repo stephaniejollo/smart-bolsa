@@ -71,7 +71,7 @@ Saldo inicial R$ 100.000 →
 Aprovado se > R$ 102.000 | Reprovado se < R$ 98.000 | Neutro entre R$ 98.000 e R$ 102.000.
 Fórmula: variação = 100 × (final − inicial) / inicial.
 
-Dúvidas comuns:
+## Dúvidas comuns:
 
 Não entendo a curva só em parte do período.
 O gráfico usa somente a janela escolhida e marca a fronteira treino/teste.
