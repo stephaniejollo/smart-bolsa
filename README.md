@@ -1,6 +1,6 @@
 # Smart Bolsa — Robô de Ações
 
-[![Abrir no Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://smart-bolsa.streamlit.app/)
+![screenshot png](https://github.com/user-attachments/assets/6c3d5587-56bb-454e-a162-a0715e2d1bf4)
   
 **Teste agora:** https://smart-bolsa.streamlit.app/
 
