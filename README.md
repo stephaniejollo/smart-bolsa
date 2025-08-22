@@ -4,12 +4,6 @@
   
 **Teste agora:** https://smart-bolsa.streamlit.app/
 
-<p align="center">
-  <a href="https://smart-bolsa.streamlit.app/">
-    <img src="docs/screenshot.png" alt="Tela do app Smart Bolsa — Robô de Ações" width="900">
-  </a>
-</p>
-
 ## O que é
 O **Smart Bolsa** é um app simples e didático para experimentar **estratégias de alocação** em ações brasileiras usando **Aprendizado por Reforço (Double Q-Learning)**.  
 Você escolhe até **11 ações**, define custos e o período de análise, e o app treina no início da janela e **avalia no final (walk-forward 70/30)**.  
